@@ -1,0 +1,4 @@
+Conclusion:
+The total number of unique terms is: 420875
+The total number of doc is: 37496
+The size for index file is: 117475 KB
